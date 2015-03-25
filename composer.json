@@ -9,5 +9,8 @@
             "GildedRose\\": "src",
             "GildedRose\\Test\\": "test"
         }
+    },
+    "require": {
+        "symfony/console": "~2.6"
     }
 }
